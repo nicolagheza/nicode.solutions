@@ -8,7 +8,6 @@ categories:
   - default
 tags:
   - default
-socialshare: true
 ---
 
 This is my first post, how exciting! 🎉

@@ -25,7 +25,12 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "My Setup"
+url = "/my-setup"
+weight = 2
+
+[[menu.main]]
 name = "All posts"
 url = "/posts"
-weight = 2
+weight = 3
 
