@@ -1,0 +1,9 @@
+{
+    "list": [
+       {
+          "name":"🤖 NICODE Bot",
+          "url":"https://t.me/nicode_bot",
+          "desc":"Telegram Bot using Llama 3.1 with multiple tools (Tavily Search API, and more to come)"
+       }
+    ]
+ }
