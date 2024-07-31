@@ -1,9 +1,9 @@
 {
-    "list": [
-       {
-          "name":"🤖 NICODE Bot",
-          "url":"https://t.me/nicode_bot",
-          "desc":"Telegram Bot using Llama 3.1 with multiple tools (Tavily Search API, and more to come)"
-       }
-    ]
- }
+  "list": [
+    {
+      "name": "🤖 Cognivox 🧠",
+      "url": "https://t.me/CognivoxBot",
+      "desc": "🏗️ WORK IN PROGRESS 🏗️ - Cognivox is a powerful AI assistant based on Llama 3.1"
+    }
+  ]
+}
