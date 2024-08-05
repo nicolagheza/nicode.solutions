@@ -2,8 +2,8 @@
   "list": [
     {
       "name": "🧠 Cognivox AI",
-      "url": "https://t.me/CognivoxBot",
-      "desc": "🏗️ WORK IN PROGRESS 🏗️ Cognivox is a powerful AI assistant based on Llama 3.1"
+      "url": "https://github.com/nicolagheza/CognivoxAI",
+      "desc": "Telegram Bot Powered by LLaMA 3.1 and LangChain"
     }
   ]
 }
